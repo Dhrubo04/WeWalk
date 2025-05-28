@@ -38,14 +38,14 @@ The **Smart Walking Stick** is a compact, affordable, and real-time health monit
 
 🛠️ Hardware Used
 
-Component	Description
-ESP8266	Wi-Fi microcontroller (NodeMCU board)
-MPU6050	3-axis Accelerometer + Gyroscope
-MAX30102	Pulse & SpO₂ sensor
-Neo-6M GPS	GPS Module for real-time tracking
-Laser Module	Laser emitter for obstacle awareness / direction indicator
-Buzzer + LED	Local alert and status indication
-Rechargeable Battery	Power source for portability and reuse
+**Component	Description**
+- ESP32 microcontroller
+- MPU6050	3-axis Accelerometer + Gyroscope
+- MAX30102	Pulse & SpO₂ sensor
+- Neo-6M GPS Module for real-time tracking
+- Laser Module	Laser emitter for obstacle awareness / direction indicator
+- Buzzer + LED	Local alert and status indication
+- Rechargeable Battery	Power source for portability and reuse
 
 ---
 
