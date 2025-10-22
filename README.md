@@ -89,6 +89,6 @@ The **Smart Walking Stick** is a compact, affordable, and real-time health monit
 
 - **Dhrubo Ghosh** — Embedded Systems, Machine Learning, Firmware, and System Logic  
 - **Arya Das** — Machine Learning, Algorithms , Model Training
-- **Soudip Roy** — Circuit Desgin, Hardware modeling , System Logic, Procurement
+- **Soudip Roy** — Circuit Desgin, Hardware modeling , Embedded Systems, Procurement
 
 ---
